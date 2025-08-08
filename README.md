@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Web Full Stack<br><br>Frontend: JavaScript , HTML5, CSS3<br>Backend: PHP ,JavaScript.<br>Banco de Dados: SQL (MySQL, PostgreSQL)<br>Versionamento: Git<br><br>Portfolio Website (HTML, CSS, JavaScript):<br>Site pessoal responsivo com design moderno.<br><br>Contato:<br>LinkedIn: www.linkedin.com/in/anderson-abacheli<br>Email: andersonabacheli@terra.com.br<br><br>Objetivo:<br>Busco oportunidades desafiadoras para aplicar minhas<br>habilidades em desenvolvimento web e contribuir <br>para projetos interessantes.
+Desenvolvedor Web Full Stack<br><br>Frontend: JavaScript , HTML5, CSS3<br>Backend: PHP ,JavaScript.<br>Banco de Dados: SQL (MySQL, PostgreSQL)<br>Versionamento: Git<br><br>Portfolio Website (HTML, CSS, JavaScript):<br>Site pessoal responsivo com design moderno.<br><br>Contato:<br>LinkedIn: www.linkedin.com/in/anderson-abacheli<br>Email: andersonabacheli600@gmail.com<br><br>Objetivo:<br>Busco oportunidades desafiadoras para aplicar minhas<br>habilidades em desenvolvimento web e contribuir <br>para projetos interessantes.
 
 
 ## 🌐 Socials:
